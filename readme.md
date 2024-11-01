@@ -29,8 +29,9 @@ sudo apt install python3-pip
 ```
 
 ```bash
-pip3 install -r requirements.txt
-```
+python3 -m venv .venv
+source .venv/bin/activate
+python3 -m pip install -r requirements.txt```
 
 ```bash
 #Temporary running
