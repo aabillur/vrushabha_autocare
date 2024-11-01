@@ -26,6 +26,7 @@ git clone "your-project"
 ```
 
 ```bash
+docker pull entbappy/stapp
 docker build -t entbappy/stapp:latest . 
 ```
 
