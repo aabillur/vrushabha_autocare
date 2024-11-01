@@ -1,0 +1,5 @@
+### dependency
+streamlit
+pandas
+mysql-connector-python
+streamlit-phone-number
