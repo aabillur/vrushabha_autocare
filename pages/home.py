@@ -4,10 +4,10 @@ import pandas as pd
 
 
 mydb = mysql.connector.connect(
-  host="vrushabhaautocare.cl8kaee80img.eu-north-1.rds.amazonaws.com",
-  user="vrushabha",
-  password="vrushabhaautocare",
-  database="vrushabhaautocare"
+  host="",
+  user="",
+  password="",
+  database=""
 )
 
 def insert_customer_details(name, phone_number, email, address, notification):
